@@ -1,4 +1,4 @@
 nuxeo-cmis-test
 ===============
 
-Example for running CMIS unit tests agains a Nuxeo Repository
+Example for running CMIS unit tests against a Nuxeo Repository

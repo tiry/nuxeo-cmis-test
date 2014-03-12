@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: me.meneses.tests.nuxeo.test;singleton:=true
